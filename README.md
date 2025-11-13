@@ -3,6 +3,7 @@
 **Language:** Python  
 **Libraries:** pandas, numpy, matplotlib, seaborn, sklearn, graphviz  
 **Dataset:** Savills Leases & Market Data (DataFest 2025) — office lease data across multiple U.S. markets  
+**Group Project:** Completed as part of a collaborative team effort.
 
 ---
 
