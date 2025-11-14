@@ -118,16 +118,4 @@
   - Business Services and Legal experienced notable declines during early COVID  
   - NYC remains dominant across all industries, but oversaturation may occur  
 
----
 
-## Tools and Methods Used
-
-- **Python** for data cleaning, visualization, and modeling  
-- **Random Forest Classification** for industry prediction  
-- **Visualization:** matplotlib, seaborn, graphviz for tree diagrams and heatmaps  
-- **Feature Selection:** Based on Random Forest feature importance  
-
----
-
-**Author:** Mia Parker  
-**Language:** Python
