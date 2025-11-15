@@ -45,7 +45,7 @@
 - Business Services tend to occupy **smaller** spaces  
 - Finance & Insurance and Technology tend to occupy **larger** spaces  
 
-*Visuals:*  
+**Visuals:**
 - Countplot of industries by state  
 - Countplot of industries by market  
 - Heatmap of key office space metrics  
@@ -83,7 +83,7 @@
 | Technology | 100 (NYC), 941 (San Francisco), 606 (Chicago), 201 (New Jersey), 787 (Austin) |
 | Business & Services | 100 (NYC), 201 (New Jersey), 200 (Washington DC), 606 (Chicago), 222 (North Virginia) |
 
-*Visuals:*  
+**Visuals:**
 - Random Forest example tree  
 - Feature importance plots  
 
@@ -99,7 +99,7 @@
 - **Legal Services:** Declined slightly during COVID, slower adaptation compared to finance.  
 - **Technology:** Maintained a steady presence, adapted well to remote work and virtual services.  
 
-*Visuals:*  
+**Visuals:**
 - Line plots of industry market share over time by quarter  
 - Highlighted COVID-19 impact period (Q2 2020)
 
